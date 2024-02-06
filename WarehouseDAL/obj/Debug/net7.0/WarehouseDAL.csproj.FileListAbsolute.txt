@@ -1,0 +1,14 @@
+D:\Trainee\WarehouseAPI\WarehouseDAL\bin\Debug\net7.0\WarehouseDAL.deps.json
+D:\Trainee\WarehouseAPI\WarehouseDAL\bin\Debug\net7.0\WarehouseDAL.runtimeconfig.json
+D:\Trainee\WarehouseAPI\WarehouseDAL\bin\Debug\net7.0\WarehouseDAL.dll
+D:\Trainee\WarehouseAPI\WarehouseDAL\bin\Debug\net7.0\WarehouseDAL.pdb
+D:\Trainee\WarehouseAPI\WarehouseDAL\obj\Debug\net7.0\WarehouseDAL.csproj.AssemblyReference.cache
+D:\Trainee\WarehouseAPI\WarehouseDAL\obj\Debug\net7.0\WarehouseDAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Trainee\WarehouseAPI\WarehouseDAL\obj\Debug\net7.0\WarehouseDAL.AssemblyInfoInputs.cache
+D:\Trainee\WarehouseAPI\WarehouseDAL\obj\Debug\net7.0\WarehouseDAL.AssemblyInfo.cs
+D:\Trainee\WarehouseAPI\WarehouseDAL\obj\Debug\net7.0\WarehouseDAL.csproj.CoreCompileInputs.cache
+D:\Trainee\WarehouseAPI\WarehouseDAL\obj\Debug\net7.0\WarehouseDAL.dll
+D:\Trainee\WarehouseAPI\WarehouseDAL\obj\Debug\net7.0\refint\WarehouseDAL.dll
+D:\Trainee\WarehouseAPI\WarehouseDAL\obj\Debug\net7.0\WarehouseDAL.pdb
+D:\Trainee\WarehouseAPI\WarehouseDAL\obj\Debug\net7.0\WarehouseDAL.genruntimeconfig.cache
+D:\Trainee\WarehouseAPI\WarehouseDAL\obj\Debug\net7.0\ref\WarehouseDAL.dll
