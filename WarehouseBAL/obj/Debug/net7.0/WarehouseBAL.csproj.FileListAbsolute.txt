@@ -1,0 +1,15 @@
+D:\Trainee\WarehouseAPI\WarehouseBAL\bin\Debug\net7.0\WarehouseBAL.deps.json
+D:\Trainee\WarehouseAPI\WarehouseBAL\bin\Debug\net7.0\WarehouseBAL.dll
+D:\Trainee\WarehouseAPI\WarehouseBAL\bin\Debug\net7.0\WarehouseBAL.pdb
+D:\Trainee\WarehouseAPI\WarehouseBAL\bin\Debug\net7.0\WarehouseDAL.dll
+D:\Trainee\WarehouseAPI\WarehouseBAL\bin\Debug\net7.0\WarehouseDAL.pdb
+D:\Trainee\WarehouseAPI\WarehouseBAL\obj\Debug\net7.0\WarehouseBAL.csproj.AssemblyReference.cache
+D:\Trainee\WarehouseAPI\WarehouseBAL\obj\Debug\net7.0\WarehouseBAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Trainee\WarehouseAPI\WarehouseBAL\obj\Debug\net7.0\WarehouseBAL.AssemblyInfoInputs.cache
+D:\Trainee\WarehouseAPI\WarehouseBAL\obj\Debug\net7.0\WarehouseBAL.AssemblyInfo.cs
+D:\Trainee\WarehouseAPI\WarehouseBAL\obj\Debug\net7.0\WarehouseBAL.csproj.CoreCompileInputs.cache
+D:\Trainee\WarehouseAPI\WarehouseBAL\obj\Debug\net7.0\WarehouseBAL.csproj.CopyComplete
+D:\Trainee\WarehouseAPI\WarehouseBAL\obj\Debug\net7.0\WarehouseBAL.dll
+D:\Trainee\WarehouseAPI\WarehouseBAL\obj\Debug\net7.0\refint\WarehouseBAL.dll
+D:\Trainee\WarehouseAPI\WarehouseBAL\obj\Debug\net7.0\WarehouseBAL.pdb
+D:\Trainee\WarehouseAPI\WarehouseBAL\obj\Debug\net7.0\ref\WarehouseBAL.dll
